@@ -4,6 +4,7 @@ An Indonesian-language digital Islamic library from YARSI University that allows
 
 You can see the detail of project in here:
 [Maktabah YARSI](https://github.com/ridhogaa/Maktabah-YARSI)
+Demo app: [Demo Maktabah YARSI](https://drive.google.com/file/d/1NX-0kkkDaL54uqKs1Co7tpgD7PEPoFb2/view?usp=sharing)
 
 #### Tech Stack: 
 - MVVM
