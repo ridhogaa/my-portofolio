@@ -10,12 +10,12 @@ Working on the project for the android project in MyTMMIN Apps.
 
 ### My Recent Projects:
 - [MyTMMIN](https://github.com/ridhogaa/my-portofolio/blob/master/projects/MyTMMIN.md)
-- [Maktabah YARSI](/projects/MaktabahYARSI.md)
-- [TummyFit](/projects/TummyFit.md)
-- [E-Flight App](/projects/E-Flight.md)
-- [ErgeaFlix App](/projects/ErgeaFlix.md)
-- [DicodingStory App](/projects/DicodingStory.md)
-- [Github User App](/projects/GitHubUser.md)
+- [Maktabah YARSI](https://github.com/ridhogaa/my-portofolio/blob/master/projects/MaktabahYARSI.md)
+- [TummyFit](https://github.com/ridhogaa/my-portofolio/blob/master/projects/TummyFit.md)
+- [E-Flight App](https://github.com/ridhogaa/my-portofolio/blob/master/projects/E-Flight.md)
+- [ErgeaFlix App](https://github.com/ridhogaa/my-portofolio/blob/master/projects/ErgeaFlix.md)
+- [DicodingStory App](https://github.com/ridhogaa/my-portofolio/blob/master/projects/DicodingStory.md)
+- [Github User App](https://github.com/ridhogaa/my-portofolio/blob/master/projects/GitHubUser.md)
 
 ### Thanks for visit!
 
