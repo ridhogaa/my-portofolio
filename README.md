@@ -9,7 +9,7 @@
 Working on the project for the android project in MyTMMIN Apps.
 
 ### My Recent Projects:
-- [MyTMMIN](/projects/MyTMMIN.md)
+- [MyTMMIN](https://github.com/ridhogaa/my-portofolio/blob/master/projects/MyTMMIN.md)
 - [Maktabah YARSI](/projects/MaktabahYARSI.md)
 - [TummyFit](/projects/TummyFit.md)
 - [E-Flight App](/projects/E-Flight.md)
